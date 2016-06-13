@@ -10,3 +10,10 @@ Show of Hands has been downloaded over 300,000 times across Apple and Android ap
 
 <a href="https://kaggle2.blob.core.windows.net/competitions/inclass/5275/media/ShowOfHandsScreenshot.jpeg">
 
+**data descriptions**
+
+<li>train2016.csv - the training set of data that you should use to build your models
+<li>test2016.csv - the test set that you will be evaluated on. It contains all of the independent variables, but not the dependent variable.
+<li>sampleSubmission2016.csv - a sample submission file in the correct format.
+<li>Questions.pdf - the question test corresponding to each of the question codes, as well as the possible answers.
+
