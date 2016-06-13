@@ -8,7 +8,6 @@ What predicts voting outcomes? In this competition, you'll be using data from Sh
 
 Show of Hands has been downloaded over 300,000 times across Apple and Android app stores, and users have cast more than 75 million votes. In this problem, we'll use data from thousands of users and one hundred different questions to see which responses predict voting outcomes.
  
- https://kaggle2.blob.core.windows.net/competitions/inclass/5275/media/ShowOfHandsScreenshot.jpeg/to/image  "Optional title attribute"
 
 **data descriptions**
 
